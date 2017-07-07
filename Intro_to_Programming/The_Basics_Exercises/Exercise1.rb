@@ -7,4 +7,4 @@ last name as your full name in one string.
 first_name = "Charity";
 last_name = "Youngblood";
 
-puts first_name + last_name 
+puts first_name + " " + last_name 
