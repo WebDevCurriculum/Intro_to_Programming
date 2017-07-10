@@ -11,7 +11,8 @@ or a combination of both to take a
 
 =end
 
+n = 5123
 puts n % 10000
 puts n % 1000
-puts n % 100
+puts (n % 100) / 100
 puts n % 10 
