@@ -10,3 +10,8 @@ or a combination of both to take a
 4) ones place
 
 =end
+
+puts n % 10000
+puts n % 1000
+puts n % 100
+puts n % 10 
