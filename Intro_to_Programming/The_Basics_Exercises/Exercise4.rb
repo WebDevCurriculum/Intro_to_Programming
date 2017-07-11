@@ -17,3 +17,6 @@ What Lies Beneath - 2000
 The Ring - 2002
 The Amityville Horror - 2005
 =end 
+
+movie_dates = [1960, 1973, 1980, 1999, 2000, 2002, 2005, 2010, 2013, 2014]
+movie_dates.each do 
