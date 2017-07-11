@@ -12,6 +12,7 @@ or a combination of both to take a
 =end
 
 #add gets.chomp to ask user to enter a 4 digit number 
+puts "Enter a 4 digit number"
 n = 5123
 
 puts (n % 10000) / 1000
