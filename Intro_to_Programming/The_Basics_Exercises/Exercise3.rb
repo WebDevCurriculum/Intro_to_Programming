@@ -23,5 +23,5 @@ The Amityville Horror - 2005
 =end 
 
 movie_titles = {"Psycho" => 1960, "The Exorcist" => 1973, "The Shining" => 1980, "The Blair Witch Project" => 1999, "What Lies Beneath" => 2000, "The Ring" => 2002, "The Amityville Horror" => 2005, "The Babadook" => 2014}
-movie_titles.each  {|key, value| puts "#{key} is #{}{value}"}
+movie_titles.each  {|key, value| puts "#{key} was released in #{value}"}
 
