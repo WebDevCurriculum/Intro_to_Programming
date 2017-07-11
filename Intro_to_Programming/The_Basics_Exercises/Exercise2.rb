@@ -13,7 +13,7 @@ or a combination of both to take a
 
 #add gets.chomp to ask user to enter a 4 digit number 
 puts "Enter a 4 digit number"
-n = 5123
+n = gets.chomp.to_i
 
 puts (n % 10000) / 1000
 puts (n % 1000) / 100
