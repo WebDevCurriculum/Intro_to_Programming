@@ -12,7 +12,7 @@ def factorial(num)
   num * (num - 1)
 end 
 
-factorial(5)
+puts "The factorial of 5 is #{factorial(5)}"
 factorial(6)
 factorial(7)
 factorial(8)
