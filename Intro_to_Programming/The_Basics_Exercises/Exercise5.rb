@@ -13,6 +13,7 @@ def factorial(num)
 end 
 
 puts "The factorial of 5 is #{factorial(5)}"
-factorial(6)
-factorial(7)
-factorial(8)
+puts "The factorial of 6 is #{factorial(6)}"
+puts "The factorial of 7 is #{factorial(7)}"
+puts "The factorial of 8 is #{factorial(8)}"
+
