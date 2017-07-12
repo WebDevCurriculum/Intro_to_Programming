@@ -8,3 +8,11 @@ factorial  formula
 n * (n - 1)
 =end 
 
+def factorial(num)
+  num * (num - 1)
+end 
+
+return factorial(5)
+return factorial(6)
+return factorial(7)
+return factorial(8)
