@@ -12,7 +12,7 @@ def factorial(num)
   num * (num - 1)
 end 
 
-return factorial(5)
-return factorial(6)
-return factorial(7)
-return factorial(8)
+factorial(5)
+factorial(6)
+factorial(7)
+factorial(8)
