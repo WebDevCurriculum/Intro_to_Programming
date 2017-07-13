@@ -12,5 +12,5 @@ def square(num)
   num**2
 end
 
-square(3).to_f
+puts square(3).to_f
 
