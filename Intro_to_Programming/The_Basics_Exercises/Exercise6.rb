@@ -13,4 +13,5 @@ def square(num)
 end
 
 puts square(3).to_f
-
+puts square(21).to_f
+puts square(38).to_f
