@@ -8,3 +8,4 @@ square = num ^ 2
 
 =end  
 
+puts 8 ^ 2
