@@ -4,8 +4,13 @@ the squares of 3 float numbers of your
 choosing and outputs the result to the screen.
 
 square = num * num 
-square = num **
+square = num**2 
 
 =end  
 
-puts 8**2
+def square(num)
+  num**2
+end
+
+square(3).to_f
+
