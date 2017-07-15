@@ -16,4 +16,4 @@ decade_age = user_age.to_i + 10
 
 
 
-puts "In 10 years you will be " + decade_age.to_i + "."
+puts "In 10 years you will be " + decade_age.to_s + "."
