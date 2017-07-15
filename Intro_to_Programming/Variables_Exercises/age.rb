@@ -10,9 +10,12 @@ be in 10, 20, 30 and 40 years.
 =end
 
 puts "What is your current age?"
-user_age = gets.chomp 
+user_age = gets.chomp.to_i 
 
-decade_age = user_age.to_i + 10
+decade_age = user_age + 10
+twenty_year_age = user_age + 20
+thirty_year_age = user_age + 30 
+forty_year_age = user_age + 40
 
 
 
