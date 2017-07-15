@@ -8,3 +8,8 @@ be in 10, 20, 30 and 40 years.
 3. create formula for user_age + 10, etc
 4. puts formula on screen for user 
 =end
+
+puts "What is your current age?"
+user_age = gets.chomp 
+
+puts "In 10 years you will be " + user_age + "."
