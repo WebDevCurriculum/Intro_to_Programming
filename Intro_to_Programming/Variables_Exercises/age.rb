@@ -20,3 +20,6 @@ forty_year_age = user_age + 40
 
 
 puts "In 10 years you will be " + decade_age.to_s + "."
+puts "In 20 years you will be " + twenty_year_age.to_s + "."
+puts "In 30 years you will be " + thirty_year_age.to_s + "."
+puts "In 40 years you will be " + forty_year_age.to_s + "."
