@@ -12,8 +12,8 @@ be in 10, 20, 30 and 40 years.
 puts "What is your current age?"
 user_age = gets.chomp 
 
-decade_age = user_age + 10
+decade_age = user_age.to_i + 10
 
 
 
-puts "In 10 years you will be " + decade_age + "."
+puts "In 10 years you will be " + decade_age.to_i + "."
