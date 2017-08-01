@@ -13,15 +13,16 @@ What does x print to the screen
 		end
 	puts x
 
-# x is not defined within the scope of the "do" method, 
-so you receieve an error message when running this program
 
-
-=begin
 		y = 0
 			3.times do
   				y += 1
   				x = y
 			end
 		puts x
-=end
+
+=begin 
+	x is not defined within the scope of the "do" method,
+ 	so you receieve an error message when running this program
+=end 
+
