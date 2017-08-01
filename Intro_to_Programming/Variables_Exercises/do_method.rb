@@ -6,16 +6,22 @@ What does x print to the screen
 =end 
 
 
+ 
+	x = 0
+		3.times do
+  			x += 1
+		end
+	puts x
 
-x = 0
-3.times do
-  x += 1
-end
-puts x
+# x is not defined within the scope of the "do" method, 
+so you receieve an error message when running this program
 
-y = 0
-3.times do
-  y += 1
-  x = y
-end
-puts x
+
+=begin
+		y = 0
+			3.times do
+  				y += 1
+  				x = y
+			end
+		puts x
+=end
