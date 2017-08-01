@@ -1,3 +1,12 @@
+=begin 
+
+What does x print to the screen
+ in each case? Do they both give errors? 
+ Are the errors different? Why?
+=end 
+
+
+
 x = 0
 3.times do
   x += 1
