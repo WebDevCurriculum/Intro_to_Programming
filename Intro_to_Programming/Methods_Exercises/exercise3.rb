@@ -5,3 +5,9 @@
   and returns the product of the two numbers.
 
 =end 
+
+def multiply(num1,num2)
+  num1 * num2
+end
+
+multiply(3,7)
