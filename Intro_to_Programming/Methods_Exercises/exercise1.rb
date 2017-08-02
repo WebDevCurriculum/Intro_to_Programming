@@ -9,3 +9,7 @@ that takes a name as its parameter and returns a string.
 3. the method should have one parameter called "name"
 4. the method should return a string 
 =end
+
+def greeting(name)
+ return name
+end 
