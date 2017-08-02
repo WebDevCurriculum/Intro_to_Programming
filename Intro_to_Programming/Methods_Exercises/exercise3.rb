@@ -10,4 +10,4 @@ def multiply(num1,num2)
   num1 * num2
 end
 
-multiply(3,7)
+puts multiply(3,7)
