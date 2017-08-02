@@ -11,5 +11,7 @@ that takes a name as its parameter and returns a string.
 =end
 
 def greeting(name)
- return name
+ puts "Hello " + name
 end 
+
+greeting("Charity")
