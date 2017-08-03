@@ -8,3 +8,6 @@ What does the following error message tell you?
     from /Users/username/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
 
 =end 
+
+- There are less arguments than the number declared in the method
+- shows the line number the error was found, as well as the file location 
