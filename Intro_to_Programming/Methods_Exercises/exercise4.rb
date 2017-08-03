@@ -12,5 +12,4 @@ end
 scream("Yippeee")
 
 
-
 #The result of this program should be nothing, as there isn't anything after the "return" keyword. 
