@@ -1,6 +1,7 @@
 =begin 
 
 What will the following code print to the screen?
+=end 
 
 def scream(words)
   words = words + "!!!!"
@@ -10,6 +11,6 @@ end
 
 scream("Yippeee")
 
-=end
 
-The result of this program should be nothing, as there isn't anything after the "return" keyword. 
+
+#The result of this program should be nothing, as there isn't anything after the "return" keyword. 
